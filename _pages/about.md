@@ -42,3 +42,8 @@ Competition Awards
  - 2017 Computer Olympiad, Hex Tournament **Champion**. 
  - 2018 Computer Olympiad, Hex Tournament **Champion**. 
  - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), **top 2 learning agents**, worked done as a part-time intern at [Borealis AI](https://www.borealisai.com/en/) at Edmonton, collaborated with [Pablo Hernandez-Leal](https://scholar.google.com/citations?user=ubp1GHsAAAAJ&hl=en), [Bilal Kartal](https://scholar.google.com/citations?user=Q9hKzEwAAAAJ&hl=en), [Matthew E. Taylor](https://scholar.google.com/citations?user=edQgLXcAAAAJ&hl=en).
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
+
+</script>

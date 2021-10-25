@@ -36,7 +36,12 @@ Work experience
   * Supervisor: [Prof. Xin Yao](#)
   * Location: Birmingham, UK
 
-  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Academic Services
 ======
 - PC member [ACG 2019, 2021](#)
@@ -51,6 +56,7 @@ Academic Services
    - I was recongnized as a [distinguished reviewer](https://www.ijcai-18.org/distinguished-members/).  
 
 
+
 Competition Awards
 ======
  - 2017 Computer Olympiad, Hex Tournament **Champion**. 
@@ -62,11 +68,7 @@ Skills
 * Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 * Natural Language: Mandarin, English
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 <!-- 
 Talks
