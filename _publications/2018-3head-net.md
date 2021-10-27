@@ -1,3 +1,4 @@
+---
 title: "Three-Head Neural Network Architecture for Monte Carlo Tree Search"
 collection: publications
 permalink: /publication/2018-3head-net
