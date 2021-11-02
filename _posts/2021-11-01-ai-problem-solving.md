@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'AI-Aided Problem Solving'
+date: 2021-11-01
+permalink: /posts/2021/11
 tags:
   - cool posts
   - category1
