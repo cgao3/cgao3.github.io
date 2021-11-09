@@ -33,14 +33,40 @@ Halide
 ======
 Halide is a `C++` embedded language, proposed [Jonathan Ragan-Kelley](#) and [Andrew Adams](#) in 2012.
 
-Auto-scheduler
+Auto-schedulers
 ------
+
+- OpenTuner: An extensible framework for program autotuning. 
+  By Jason Ansel et al., PACI 2014
+
+- Automatically Scheduling Halide Image Pipelines. 
+  By Mullapudi et al. SIGGRAPH 2016
+
+- Differentiable Programming for Image Processing and Deep Learning in Halide
+  By Tzu-Mao Li eta al., SIGGRAPH 2018
+  
+- Learning to Optimize Halide with Tree Search and Random Programs
+  By Andrew Adams et al., SIGGRAPH 2019 
+
+- Efficient automatic scheduling of imaging and vision pipelines for the GPU
+  By Lunke Andreson et al., Proceedings of the ACM on Programming Languages 2021
 
 TVM
 ======
 TVM is a `Python` embedded language; its grammar is very much similar to `tensorflow`, `pytorch`.
 
 
-AutoTVM
+Auto-schedulers
 ------
-write some there
+- AutoTVM:
+
+  Learning to Schedule Tensor Programs
+
+  By Chen et al., Neurips 2018   
+
+- Ansor: 
+
+  Ansor : Generating High-Performance Tensor Programs for Deep Learning
+
+  By Zhang et al., USENIX 2020
+
