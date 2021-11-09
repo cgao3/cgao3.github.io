@@ -49,8 +49,8 @@ Nash then proved by [strategy stealing argument](https://en.wikipedia.org/wiki/S
 ### Playing Hex is hard
 Hex has extremely simple rules, but this does not make the game simple to play! Just watch a few games played by two strong computer Hex players, can you follow the strategies? 
 
-![](imgs/ezo-mohex-2018-11x11-04.png "Ezo vs MoHex, MoHex won") 
-![](imgs/mohex-ezo-2018-11x11-05.png "MoHex vs Ezo, MoHex won")
+![](/images/ezo-mohex-2018-11x11-04.png "Ezo vs MoHex, MoHex won") 
+![](/images/mohex-ezo-2018-11x11-05.png "MoHex vs Ezo, MoHex won")
 
 
 Visit [Prof. Ryan Hayward's homepage](https://webdocs.cs.ualberta.ca/~hayward/) for more about the game of Hex. 
