@@ -36,19 +36,24 @@ Halide is a `C++` embedded language, proposed [Jonathan Ragan-Kelley](#) and [An
 Auto-schedulers
 ------
 
-- OpenTuner: An extensible framework for program autotuning. 
+- [OpenTuner: An extensible framework for program autotuning](#) 
+
   By Jason Ansel et al., PACI 2014
 
-- Automatically Scheduling Halide Image Pipelines. 
+- [Automatically Scheduling Halide Image Pipelines](#)
+
   By Mullapudi et al. SIGGRAPH 2016
 
-- Differentiable Programming for Image Processing and Deep Learning in Halide
+- [Differentiable Programming for Image Processing and Deep Learning in Halide](#)
+
   By Tzu-Mao Li eta al., SIGGRAPH 2018
   
-- Learning to Optimize Halide with Tree Search and Random Programs
+- [Learning to Optimize Halide with Tree Search and Random Programs](https://halide-lang.org/papers/autoscheduler2019.html)
+
   By Andrew Adams et al., SIGGRAPH 2019 
 
-- Efficient automatic scheduling of imaging and vision pipelines for the GPU
+- [Efficient automatic scheduling of imaging and vision pipelines for the GPU](https://dl.acm.org/doi/abs/10.1145/3485486)
+
   By Lunke Andreson et al., Proceedings of the ACM on Programming Languages 2021
 
 TVM
@@ -60,13 +65,29 @@ Auto-schedulers
 ------
 - AutoTVM:
 
-  Learning to Schedule Tensor Programs
+  [Learning to Optimize Tensor Programs](https://dl.acm.org/doi/pdf/10.5555/3327144.3327258)
 
   By Chen et al., Neurips 2018   
 
 - Ansor: 
 
-  Ansor : Generating High-Performance Tensor Programs for Deep Learning
+  [Ansor : Generating High-Performance Tensor Programs for Deep Learning](https://www.usenix.org/conference/osdi20/presentation/zheng)
 
   By Zhang et al., USENIX 2020
 
+
+Difference between Halide and TVM
+======
+
+Language expressiveness difference
+------
+Halide supports `DAG` like computational logics. 
+TVM is fully compatible with `Tensorflow` and `PyTorch`, so it also supports recurrent network architectures.
+
+Auto-scheduler algorithms difference
+------
+- The autoscheduler in Halide schedules a program `stage by stage`, where a `stage` is a functional object. At each stage, it makes two type of decisions
+    - Cross-stage granularity: 
+    - Intra-stage order:  
+
+- The autoscheduler in TVM divides the computation graph into independent `operators` (an operator is similar to a stage in Halide), then optimize each operator separately. 

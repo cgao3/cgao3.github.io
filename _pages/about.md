@@ -13,7 +13,9 @@ Welcome to my homepage. My name is Chao Gao.  I obtained my PhD degree from the 
 Research
 ======
 
-I have a wide interest in various aspects of Artificial Intelligence and Operations Research, with a particular focus on techniques that are able to solve real-world challenging problems.  
+I am most interested in techniques that are able to solve real-world challenging problems, 
+thus that I have a wide interests in various aspects of artificial intelligence. 
+
 See [Projects](/projects/) for more about the projects I have worked on and am currently working on.
 
 
