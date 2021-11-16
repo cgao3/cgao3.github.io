@@ -21,8 +21,8 @@ See [Projects](/projects/) for more about the projects I have worked on and am c
 
 Academic Services
 ------
-- PC member [AAAI-RLG workshop 2020, 2021, 2022]()http://aaai-rlg.mlanctot.info/
-- PC member [ACG 2019, 2021](#)
+- PC member [AAAI-RLG workshop 2020, 2021, 2022](http://aaai-rlg.mlanctot.info/)
+- PC member [ACG 2019, 2021](https://icga.org/)
 - PC member [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
 - PC member [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 - PC member [IJCAI 2021](https://ijcai-21.org)
