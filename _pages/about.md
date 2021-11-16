@@ -13,8 +13,7 @@ Welcome to my homepage. My name is Chao Gao.  I obtained my PhD degree from the 
 Research
 ======
 
-I am most interested in techniques that are able to solve real-world challenging problems, 
-thus that I have a wide interests in various aspects of artificial intelligence. 
+I am interested in various AI techniques/algorithms that are able to solve real-world problems. 
 
 See [Projects](/projects/) for more about the projects I have worked on and am currently working on.
 
@@ -22,6 +21,7 @@ See [Projects](/projects/) for more about the projects I have worked on and am c
 
 Academic Services
 ------
+- PC member [AAAI-RLG workshop 2020, 2021, 2022]()http://aaai-rlg.mlanctot.info/
 - PC member [ACG 2019, 2021](#)
 - PC member [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
 - PC member [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)

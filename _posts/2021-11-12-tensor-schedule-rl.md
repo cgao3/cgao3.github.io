@@ -16,7 +16,7 @@ In this blog, I briefly summarize the existing methods, and dicuss potential and
 Halide
 ======
 The 2019 Halide auto-scheduler combines `heuristic search` and `neural net` for scheduling tensor programs (*even though neural nets are tensor programs themselves*). 
-The `Adams2019` auto-scheduler's algorithm can be summarized in the following digram.  
+The `Adams2019` auto-scheduler's algorithm can be summarized in the following diagram.  
 
 ![Adams2019-Halide](/images/adams2019_RL.png)
 
