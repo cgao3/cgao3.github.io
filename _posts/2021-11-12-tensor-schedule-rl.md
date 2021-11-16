@@ -44,3 +44,16 @@ Indeed, this is also what is happening in reality.
 
 Yet, one more important solution step we overlooked above is how the search space of schedules are defined. 
 Clearly, these search spaces cannot be directly extracted from our **sketchy description of the problem using natural language** --- there must be a formal definition by which the space of schedules can be generated and searched systematically (like in games, we need action definition and rules to control action transitions).  Indeed, in both Halide and TVM, the definition of search space is also an important (possibly not less important than the algorithms for searching & learning) task that requires yet another kind of algorithm for automatic modelling. 
+
+In my view, the search space modelling algorithm would have to come a trade-off between the following properties: 
+
+- Easy to encode --- thus engineers can write easy-to-understand and maitainable code.
+- Compact --- this refers a balance of the following to qualities:
+    - Adequate coverage: it should cover enough high-quality schedules.
+    - Minimum redundancy: it should not include too many meaningless schedules.
+- Structural convenient --- this refers to a well-formed structure that might be harnessed by the searching algorithm. 
+ For example, the [Polyhedral method](#) tries to formulate the schedule space using a set of [integer linear equations](#), 
+ thus many well-developed ILP solver can be directly applied for searching the *optimal* schedule.
+
+ Once search space modelling is settled, i.e., problem is formally defined, algorithms development can focus on **heuristic search**, **machine learning** and the **combination of both**. 
+ The overall algorithm framework is thus a **search-based reinforcement learning**.
