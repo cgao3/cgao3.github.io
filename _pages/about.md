@@ -13,8 +13,8 @@ Welcome to my homepage. My name is Chao Gao.  I obtained my PhD degree from the 
 Research
 ======
 
-I am interested in various aspects of AI, with a particular attention on those for solving real-world problems. 
-
+I am interested in various aspects of artificial intelligence. 
+My current research focus is mainly **application-driven**. 
 See [Projects](/projects/) for more about the projects I have worked on and am currently working on.
 
 

@@ -47,7 +47,7 @@ Clearly, these search spaces cannot be directly extracted from our **sketchy des
 
 In my view, the search space modelling algorithm would have to come a trade-off between the following properties: 
 
-- Easy to encode --- thus engineers can write easy-to-understand and maitainable code.
+- Easy to encode --- thus engineers can write easy-to-understand and maintainable code.
 - Compact --- this refers a balance of the following to qualities:
     - Adequate coverage: it should cover enough high-quality schedules.
     - Minimum redundancy: it should not include too many meaningless schedules.
