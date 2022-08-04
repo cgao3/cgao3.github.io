@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. My name is Chao Gao.  I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
+Welcome to my homepage. My name is Chao Gao. I am currently a senior researcher and team lead at Huawei Canada Research Center in Edmonton. I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
 
 Research
 ======
 
 I am interested in various aspects of artificial intelligence. 
 My current research focus is mainly **application-driven**. 
+Our current work are centered at using AI/ML algorithms for hardware/software optimization. 
 See [Projects](/projects/) for more about the projects I have worked on and am currently working on.
 
 
