@@ -9,14 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Experience
 ======
-* Ph.D in Computing Science, [University of Alberta](#), 2020 
-* M.S. in Computer Science, [University of Science and Technology of China](#), 2015
-
-Work experience
-======
-* 2020 -- now: Senior Researcher 
+* 2020 -- now: Researcher 
   * Appplication-driven resarch on heuristic search, reinforcement learning, deep learning 
   * Optimizing tensor program scheduling 
   * Location: Edmonton, Canada 
