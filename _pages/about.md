@@ -20,3 +20,10 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
 
 </script>
+
+
+### News! 
+
+#### Our [CASCO](#) paper is accepted at [DATE 2024](https://www.date-conference.com/) 
+
+#### Our [UNICO](#) paper is published at [MICRO 2023](https://microarch.org/micro56/)
