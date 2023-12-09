@@ -24,7 +24,7 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 
 ### News! 
 
-#### Our [UA-MCTS](#) paper is accepted at [AAAI 2024] (https://aaai.org/aaai-conference/)
+#### Our [UA-MCTS](#) paper is accepted at [AAAI 2024](https://aaai.org/aaai-conference/)
 
 #### Our [CASCO](#) paper is accepted at [DATE 2024](https://www.date-conference.com/) 
 
