@@ -28,4 +28,4 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 
 #### Our [CASCO](#) paper is accepted at [DATE 2024](https://www.date-conference.com/) 
 
-#### Our [UNICO](#) paper is published at [MICRO 2023](https://microarch.org/micro56/)
+#### Our [UNICO](https://dl.acm.org/doi/10.1145/3613424.3614282) paper is published at [MICRO 2023](https://microarch.org/micro56/)
