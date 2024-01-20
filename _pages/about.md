@@ -24,6 +24,8 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 
 ### News! 
 
+#### Our [Cylindrical Thompson Sampling for Bayesian Optimization](#) paper is accepted at [AISTATS 2024](http://aistats.org/aistats2024/) 
+
 #### Our [Multiscale color measurement](#) paper is accepted at [ICASSP 2024](https://2024.ieeeicassp.org/)
 
 #### Our [UA-MCTS](#) paper is accepted at [AAAI 2024](https://aaai.org/aaai-conference/)
