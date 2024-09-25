@@ -24,7 +24,9 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 
 ### News! 
 
-#### Our [Cylindrical Thompson Sampling for Bayesian Optimization](#) paper is accepted at [AISTATS 2024](http://aistats.org/aistats2024/) 
+### Our paper [Exploiting the Replay Memory Before Exploring the Environment: Enhancing Reinforcement Learning Through Empirical MDP Iteration](#) is accepted at [Neurips 2024](https://neurips.cc/)
+
+#### Our [Cylindrical Thompson Sampling for Bayesian Optimization](https://proceedings.mlr.press/v238/rashidi24a/rashidi24a.pdf) paper is accepted at [AISTATS 2024](http://aistats.org/aistats2024/) 
 
 #### Our [Multiscale color measurement](https://ieeexplore.ieee.org/document/10448247) paper is accepted at [ICASSP 2024](https://2024.ieeeicassp.org/)
 
