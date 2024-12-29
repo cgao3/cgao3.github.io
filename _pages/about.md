@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a staff researcher/engineer and team lead at Huawei Canada Research Center in Edmonton.  I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), advised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
+I am currently a staff researcher/engineer and team lead at Huawei Canada Research Center in Edmonton.  I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), advised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/) in March 2020. 
 
 Research
 ======
