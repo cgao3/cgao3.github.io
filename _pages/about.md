@@ -24,7 +24,9 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 
 ### News! 
 
-#### Our paper [Improving Deep Q-Learning By Evolving the Behavior Function](#) is accepted at [AAMS 2025](https://aamas2025.org/)
+#### Our paper [MAS attention: memory aware scalable attention acceleration for edge devices)(https://arxiv.org/abs/2411.17720) is accpeted at [MLSys 2025](https://mlsys.org/)
+
+#### Our paper [Improving Deep Q-Learning By Evolving the Behavior Function](https://arxiv.org/html/2501.00913v1) is accepted at [AAMAS 2025](https://aamas2025.org/)
 
 #### Our paper [Exploiting the Replay Memory Before Exploring the Environment: Enhancing Reinforcement Learning Through Empirical MDP Iteration](https://neurips.cc/virtual/2024/poster/93796) is published at [Neurips 2024](https://neurips.cc/)
 
