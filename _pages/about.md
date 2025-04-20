@@ -24,7 +24,7 @@ Our current work are centered at using AI/ML algorithms for hardware/software op
 
 ### News! 
 
-#### Our paper [MAS attention: memory aware scalable attention acceleration for edge devices)(https://arxiv.org/abs/2411.17720) is accpeted at [MLSys 2025](https://mlsys.org/)
+#### Our paper [MAS attention: memory aware scalable attention acceleration for edge devices](https://arxiv.org/abs/2411.17720) is accpeted at [MLSys 2025](https://mlsys.org/)
 
 #### Our paper [Improving Deep Q-Learning By Evolving the Behavior Function](https://arxiv.org/html/2501.00913v1) is accepted at [AAMAS 2025](https://aamas2025.org/)
 
