@@ -23,7 +23,7 @@
 </div>
 
 
-I am currently a research team lead at Huawei Canada Research Center in Edmonton.  I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), advised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/) in March 2020. 
+I am currently a research team lead at Huawei Canada Research Center in Edmonton.  I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), advised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/) in March 2020, where I studied the [game of Hex (invented by Piet Hein and John Nash)](https://web.mit.edu/sp.268/www/hex-notes.pdf) by combining algorithms from heuristic search, deep learning and reinforcement learning.  
 
 
 ### Research
@@ -32,7 +32,4 @@ I am interested in various aspects of artificial intelligence.
 My current research focus is mainly **application-driven**. 
 Our current work are centered at using AI/ML algorithms for hardware/software optimization. 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ks1HHRx40JDqCQpww-aK6hlG-ujd51WX5oytEVIXeQs&cl=ffffff&w=a">
-
-</script>
 
