@@ -30,8 +30,8 @@
 
 I am currently a research team lead at Huawei Canada Research Center in Edmonton.  I obtained my PhD degree from the [Department of Computing Science, University of Alberta](http://cs.ualberta.ca), advised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/) in March 2020. 
 
-Research
-======
+
+### Research
 
 I am interested in various aspects of artificial intelligence. 
 My current research focus is mainly **application-driven**. 
