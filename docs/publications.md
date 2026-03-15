@@ -1,8 +1,7 @@
 # Publications
 
 
-<div class="year-group">
-  <div class="year-label">2026</div>
+## 2026
 
   <div class="publication-card">
     <div class="publication-content">
@@ -29,10 +28,8 @@
       <div class="publication-year">2026</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2025</div>
+## 2025
 
   <div class="publication-card">
     <div class="publication-content">
@@ -85,10 +82,8 @@
       <div class="publication-year">2025</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2024</div>
+## 2024
 
   <div class="publication-card">
     <div class="publication-content">
@@ -154,10 +149,9 @@
       <div class="publication-year">2024</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2023</div>
+
+  ## 2023
 
   <div class="publication-card">
     <div class="publication-content">
@@ -171,10 +165,8 @@
       <div class="publication-year">2023</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2022</div>
+## 2022
 
   <div class="publication-card">
     <div class="publication-content">
@@ -201,10 +193,8 @@
       <div class="publication-year">2022</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2021</div>
+## 2021
 
   <div class="publication-card">
     <div class="publication-content">
@@ -218,10 +208,8 @@
       <div class="publication-year">2021</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2020</div>
+## 2020
 
   <div class="publication-card">
     <div class="publication-content">
@@ -235,10 +223,8 @@
       <div class="publication-year">2020</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2019</div>
+## 2019
 
   <div class="publication-card">
     <div class="publication-content">
@@ -265,10 +251,8 @@
       <div class="publication-year">2019</div>
     </div>
   </div>
-</div>
 
-<div class="year-group">
-  <div class="year-label">2018</div>
+## 2018
 
   <div class="publication-card">
     <div class="publication-content">
@@ -297,8 +281,7 @@
   </div>
 </div>
 
-<div class="year-group">
-  <div class="year-label">2017</div>
+## 2017
 
   <div class="publication-card">
     <div class="publication-content">
@@ -340,9 +323,9 @@
   </div>
 </div>
 
-<div class="year-group">
-  <div class="year-label">2015</div>
+## 2016 
 
+## 2015
   <div class="publication-card">
     <div class="publication-content">
       <h3 class="publication-title">
