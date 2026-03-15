@@ -165,7 +165,7 @@
   </div>
 
 
-  ## 2023
+## 2023
 
   <div class="publication-card">
     <div class="publication-content">
