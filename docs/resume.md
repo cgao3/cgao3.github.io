@@ -45,6 +45,6 @@
       <span class="timeline-role">Doctoral of Computing Science</span>
       <span class="timeline-dates">Sep 2015 – March 2020</span>
     </div>
-    <div class="timeline-meta">Amii • AI Lab • <a ref="https://ualberta.scholaris.ca/items/32d94269-5fdc-44d8-9326-7214ea81c5c6"> PhD Thesis </a> </div>
+    <div class="timeline-meta">Amii • AI Lab • <a href="https://ualberta.scholaris.ca/items/32d94269-5fdc-44d8-9326-7214ea81c5c6"> PhD Thesis </a> </div>
   </div>
 </div>
