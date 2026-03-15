@@ -6,11 +6,11 @@
     <div class="publication-content">
         <h3 class="publication-title">
             <a href="" class="publication-link">
-                Infusion: Influence Function-guided Model Poisoning via Training Document Attacks
+                Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning
             </a>
         </h3>
-        <div class="publication-venue">UK AISI Challenge Fund • Preprint</div>
-        <div class="publication-authors">J Rosser, Robert Kirk, Edward Grefenstette, Jakob Foerster, Laura Ruis</div>
+        <div class="publication-venue">ICLR</div>
+        <div class="publication-authors">K Sun, H Zhang, J Jin, C Gao, X Chen, W Liu, L Kong</div>
         <div class="publication-year">2026</div>
         <div class="publication-tags">
             <span class="tag tag-safety">AI Security</span>
