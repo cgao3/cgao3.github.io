@@ -17,6 +17,19 @@
     </div>
   </div>
 
+    <div class="publication-card">
+    <div class="publication-content">
+      <h3 class="publication-title">
+        <a href="https://arxiv.org/abs/2603.00483" class="publication-link">
+         RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment
+        </a>
+      </h3>
+      <div class="publication-venue">CVPR 2026</div>
+      <div class="publication-authors">L Jiang, R Chen, C Gao, D Niu</div>
+      <div class="publication-year">2026</div>
+    </div>
+  </div>
+
   <div class="publication-card">
     <div class="publication-content">
       <h3 class="publication-title">
