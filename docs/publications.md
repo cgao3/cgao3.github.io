@@ -367,4 +367,19 @@
       <div class="publication-year">2015</div>
     </div>
   </div>
-</div>
+
+  <div class="publication-card">
+    <div class="publication-content">
+      <h3 class="publication-title">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-662-49014-3_46" class="publication-link">
+          A stochastic local search heuristic for the multidimensional multiple-choice knapsack problem
+        </a>
+      </h3>
+      <div class="publication-venue">Bio-inspired computing-theories and applications</div>
+      <div class="publication-authors">Y Xia, C Gao, JL Li</div>
+      <div class="publication-year">2015</div>
+    </div>
+  </div>
+
+## 2014
+
