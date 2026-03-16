@@ -17,7 +17,6 @@
   </div>
   
   <div class="publication-card">
-    <div class="publication-card">
     <div class="publication-content">
       <h3 class="publication-title">
         <a href="https://arxiv.org/abs/2603.00483" class="publication-link">
@@ -28,7 +27,6 @@
       <div class="publication-authors">L Jiang, R Chen, C Gao, D Niu</div>
       <div class="publication-year">2026</div>
     </div>
-  </div>
   </div>
 
 
@@ -382,4 +380,28 @@
   </div>
 
 ## 2014
-
+  <div class="publication-card">
+    <div class="publication-content">
+      <h3 class="publication-title">
+        <a href="https://ieeexplore.ieee.org/abstract/document/6900355" class="publication-link">
+          A weighting-based local search heuristic algorithm for the set covering problem
+        </a>
+      </h3>
+      <div class="publication-venue">CEC</div>
+      <div class="publication-authors">C Gao, T Weise, J Li</div>
+      <div class="publication-year">2014</div>
+    </div>
+  </div>
+  
+  <div class="publication-card">
+    <div class="publication-content">
+      <h3 class="publication-title">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-319-11857-4_4" class="publication-link">
+          Improving the 3-flip neighborhood local search by random flat move for the set covering problem
+        </a>
+      </h3>
+      <div class="publication-venue">International Conference in Swarm Intelligence</div>
+      <div class="publication-authors">C Gao, T Weise, J Li</div>
+      <div class="publication-year">2014</div>
+    </div>
+  </div>
