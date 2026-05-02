@@ -51,7 +51,7 @@
         </a>
       </h3>
       <div class="publication-venue">WACV 2026</div>
-      <div class="publication-authors">(authors TBC)</div>
+      <div class="publication-authors">B Rashidi, K Aghakasiri, S Zhang, A Sattarifard, Y Zhang, C Gao</div>
       <div class="publication-year">2026</div>
     </div>
   </div>
@@ -79,7 +79,7 @@
         </a>
       </h3>
       <div class="publication-venue">MLSys 2025</div>
-      <div class="publication-authors">(authors TBC)</div>
+      <div class="publication-authors">M Shakerdargah, S Lu, C Gao, D Niu</div>
       <div class="publication-year">2025</div>
     </div>
   </div>
@@ -203,7 +203,7 @@
         </a>
       </h3>
       <div class="publication-venue">SoCS 2022</div>
-      <div class="publication-authors">C Gao et al.</div>
+      <div class="publication-authors">C Gao, J Chen, T Mo, T Sajed, S Jui, M Qin, L Gong, W Lu</div>
       <div class="publication-year">2022</div>
     </div>
   </div>
@@ -216,7 +216,7 @@
         </a>
       </h3>
       <div class="publication-venue">AAAI 2022</div>
-      <div class="publication-authors">Wang et al., C Gao</div>
+      <div class="publication-authors">Y Wang, B Pan, W Tu, P Liu, B Jiang, C Gao, W Lu, S Jui, L Kong</div>
       <div class="publication-year">2022</div>
     </div>
   </div>
@@ -231,7 +231,7 @@
         </a>
       </h3>
       <div class="publication-venue">ICTAI 2021</div>
-      <div class="publication-authors">C Gao et al.</div>
+      <div class="publication-authors">C Gao, T Mo, T Zowtuk, T Sajed, L Gong, H Chen, S Jui, W Lu</div>
       <div class="publication-year">2021</div>
     </div>
   </div>
