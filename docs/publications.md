@@ -3,6 +3,19 @@
 
 ## 2026
 
+ <div class="publication-card">
+    <div class="publication-content">
+      <h3 class="publication-title">
+        <a href="https://arxiv.org/abs/2512.12083" class="publication-link">
+          RePack then Refine: Efficient Diffusion Transformers with Vision Foundation Models
+        </a>
+      </h3>
+      <div class="publication-venue">ICML 2026</div>
+      <div class="publication-authors">G Dong, L Schultz, N Hassanpour, C Gao</div>
+      <div class="publication-year">2026</div>
+    </div>
+  </div>
+
   <div class="publication-card">
     <div class="publication-content">
       <h3 class="publication-title">
