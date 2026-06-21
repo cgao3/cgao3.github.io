@@ -30,6 +30,5 @@ I am currently a research team lead at Huawei Canada Research Center in Edmonton
 
 I am interested in various aspects of artificial intelligence. 
 My current research focus is mainly **application-driven**. 
-Our current work are centered at using AI/ML algorithms for hardware/software optimization. 
-
+Our current work is centered on using AI/ML algorithms for hardware/software optimization, empowering [edge AI](https://www.ibm.com/think/topics/edge-ai).
 
